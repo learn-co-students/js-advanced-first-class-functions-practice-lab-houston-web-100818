@@ -31,7 +31,7 @@ function totalRevenue(drivers) {
     return agg + element.revenue;
   }, 0);
 }
-// elenent = driver
+// element = driver
 // return newRay.reduce((acc, val) => acc + val)
 
 function averageRevenue(drivers) {
